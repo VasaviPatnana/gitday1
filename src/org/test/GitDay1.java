@@ -9,6 +9,7 @@ public static void main(String[] args) {
 	li.add(10);
 	li.add(30);
 	li.add(50);
+	li.add(70);
 	System.out.println(li);
 	
 	
